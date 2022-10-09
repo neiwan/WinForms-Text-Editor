@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\bin\Debug\firstlab.exe.config
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\bin\Debug\firstlab.exe
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\bin\Debug\firstlab.pdb
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.Form1.resources
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.Properties.Resources.resources
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.exe
+C:\Users\User\Desktop\Проекты С++\firstlab\firstlab\obj\Debug\firstlab.pdb
+C:\Users\v8950\source\repos\firstlab\obj\Debug\firstlab.exe
+C:\Users\v8950\source\repos\firstlab\obj\Debug\firstlab.pdb
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\bin\Debug\firstlab.exe.config
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\bin\Debug\firstlab.exe
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\bin\Debug\firstlab.pdb
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.csproj.AssemblyReference.cache
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.csproj.SuggestedBindingRedirects.cache
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.Form1.resources
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.Properties.Resources.resources
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.csproj.GenerateResource.cache
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.csproj.CoreCompileInputs.cache
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.exe
+C:\Users\v8950\source\repos\newLabs\firstlab\firstlab\obj\Debug\firstlab.pdb
